@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MekeihN
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently pursuing a computer science degree at Morgan State University
+- 📫 How to reach me? mekeihn@gmail.com
